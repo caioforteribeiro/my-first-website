@@ -41,6 +41,22 @@ nav a:hover {
     text-align: center;
 }
 
+#javascript {
+    width: 100px;
+    height: 100px;
+    margin: 18% 10% 2%;
+}
+
+#git {
+    margin-top: 35px;
+}
+
+#github {
+    width: 85px;
+    height: 85px;
+    margin-left: 15%;
+}
+
 img {
     width: 100%;
 }
