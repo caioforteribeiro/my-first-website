@@ -31,34 +31,23 @@ nav a:hover {
     color: #4a4a4f;
 }
 
+.row {
+    width: 100%;
+}
+
 .card {
     float: left;
-    width: 20%;
-    margin-left: 10%;
+    width: 15%;
+    margin-left: 15%;
 }
 
 .card a {
     text-align: center;
 }
 
-#javascript {
-    width: 100px;
-    height: 100px;
-    margin: 18% 10% 2%;
-}
-
-#git {
-    margin-top: 35px;
-}
-
-#github {
-    width: 85px;
-    height: 85px;
-    margin-left: 15%;
-}
-
 img {
     width: 100%;
+    height: 180px;
 }
 
 h1 {
